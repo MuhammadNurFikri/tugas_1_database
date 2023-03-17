@@ -14,3 +14,19 @@ RDBMS adalah jenis sistem manajemen database yang memungkinkan pengguna untuk me
 * Network Model : Pengembangan dari hierarchical model.
 * Relational Model : Menyusun data ke dalam bentuk tabel yang saling terhubung
 * Object Oriented Model : Menggunakan pendekatan object dalam penyimpanan data.
+
+## 4. Sebutkan 6 aplikasi RDBMS selain MySQL!
+* PostgreSQL
+* MariaDB
+* Oracle Database
+* Microsoft Access
+* Microsoft SQL Server
+* Firebird
+
+## 5. Sebutkan 5 keunggulan MySQL sebagai RDBMS!
+* Software sumber terbuka (open source) dibawah lisensi GPL.
+* Stabil dan tangguh.
+* Fleksibel dengan berbagai bahasa pemrograman.
+* Mampu menangani basis data dalam skala besar.
+* Mempunyai beberapa lapis sistem keamanan seperti subnetmask, host name, izin akses user serta sandi terenkripsi.
+* Dukungan dari banyak komunitas dan kemudahan management data base serta mendukung transaksi.
